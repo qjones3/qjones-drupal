@@ -20,6 +20,8 @@
         "drupal/core-composer-scaffold": "^9.5",
         "drupal/core-project-message": "^9.5",
         "drupal/core-recommended": "^9.5",
+        "drupal/gin": "3.0.0-rc2",
+        "drupal/gin_toolbar": "^1.0@beta",
         "drupal/module_filter": "^4.0",
         "drush/drush": "^11.5"
     },
