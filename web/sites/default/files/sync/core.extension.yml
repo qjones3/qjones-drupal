@@ -28,6 +28,7 @@ module:
   jquery_ui_autocomplete: 0
   jquery_ui_menu: 0
   jsonapi: 0
+  jsonapi_extras: 0
   link: 0
   media: 0
   media_library: 0
